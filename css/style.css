@@ -1,0 +1,93 @@
+.myct {
+	background: url('../image/bg.jpg');
+	width: 100%;
+	height: 550px;
+	padding-left: 23%;
+	padding-right: 23%;
+}
+.myc {
+	background: url('../image/bg.jpg');
+	width: 100%;
+	height: 300px;
+	padding-left: 23%;
+	padding-right: 23%;
+}
+.blu {
+	position: absolute;
+	top:236.7%;
+	left: 0;
+	width: 100%;
+	height: 300px;
+	background-color: rgba(178,177,177,0.9);
+
+}
+.blur {
+	position: absolute;
+	top:0;
+	left: 0;
+	width: 100%;
+	height: 550px;
+	background-color: rgba(246,11,11,0.7);
+
+}
+.img1{
+	position: absolute;
+	width: 20%;
+	top:64%;
+	left: 525px;
+}
+.img2{
+	position: absolute;
+	width: 19%;
+	top:40%;
+	left: 1025px;
+}
+
+h5, h1, p{
+	color:#fff;
+	font-size: 180%;
+}
+.a{
+	margin-top: 5%;
+}
+.b{
+	border:1px solid #fff;
+	padding: 2%;
+}
+.c{
+	font-size: 700%;
+}
+.d{
+	font-size: 100%;
+}
+.f{
+	color: #000;
+}
+b{
+	color: red;
+}
+.esm {
+	color: #CCBABA;
+	font-size: 150%;
+}
+.esm1 {
+	color: #858181;
+	font-size: 150%;
+}
+.eve{
+	margin-top: -38%;
+	color: #CCBABA;
+	font-size: 150%;
+}
+.amo{
+	color: #000;
+	font-size: 150%;
+
+}
+.img4{
+	width: 250%;
+}
+.a1{
+	margin-top: -2%;
+	padding-left: 30%;
+}
